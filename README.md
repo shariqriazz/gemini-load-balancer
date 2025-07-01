@@ -1,3 +1,6 @@
+DEPRECIATED IN FAVOR OF 
+https://github.com/shariqriazz/load-balancer/
+
 # Gemini Load Balancer
 
 A modern NextJS application that serves as a proxy server for the Google Gemini API, with key management, load balancing, and a beautiful UI. This application allows you to efficiently manage multiple Gemini API keys, automatically rotate between them and to monitor your API usage with detailed statistics.
